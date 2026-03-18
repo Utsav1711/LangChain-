@@ -1,0 +1,111 @@
+# ================================
+
+# 🔐 Environment variables (CRITICAL)
+
+# ================================
+
+.env
+.env.*
+**/.env
+
+# ================================
+
+# 🐍 Python cache files
+
+# ================================
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# ================================
+
+# 🧪 Virtual environments (you have many)
+
+# ================================
+
+venv/
+ven/
+.venv/
+ENV/
+**/venv/
+**/ven/
+
+# ================================
+
+# 💻 VS Code settings
+
+# ================================
+
+.vscode/
+
+# ================================
+
+# 🧾 Logs & temp files
+
+# ================================
+
+*.log
+logs/
+tmp/
+temp/
+
+# ================================
+
+# 📦 Build files
+
+# ================================
+
+build/
+dist/
+*.egg-info/
+
+# ================================
+
+# 📊 LangChain / AI specific
+
+# ================================
+
+# Vector DB / embeddings
+
+*.faiss
+*.pkl
+*.sqlite3
+chroma/
+vectorstore/
+index/
+db/
+
+# Model cache
+
+.cache/
+huggingface/
+transformers/
+
+# ================================
+
+# 🧪 Testing
+
+# ================================
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ================================
+
+# 🖥️ OS files
+
+# ================================
+
+.DS_Store
+Thumbs.db
+
+# ================================
+
+# 🔑 Secrets / credentials
+
+# ================================
+
+secrets.json
+credentials.json

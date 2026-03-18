@@ -1,0 +1,10 @@
+Output parser is used fro LLM responce make in the structured formate like JSON,CSV , Pydentic, and more.
+
+Json Output parser schema enforce kari sakto nathi atle ama key-value like sturcture male nai so apde Structured Output Parser no use karyo che 
+
+Structured Output Parser Json parser j che pn ama schema define kari sakiye che
+Structured Output Parser Data Validation kari saktu nathi 
+
+Data Validation mate pydentic Output Parser use kari sakai  
+
+
